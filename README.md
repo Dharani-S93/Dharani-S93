@@ -8,13 +8,6 @@
 
 Motivated and detail-oriented B. Tech student specializing in **Artificial Intelligence & Data Science**. With a strong foundation in **programming**, **data analytics**, and **functional programming**, I am eager to contribute to **Juspay's mission-critical projects**, focusing on backend development, **API integration**, and **intelligent payment solutions**. My goal is to innovate in the **fintech domain** and enhance payment experiences at scale.
 
-## 🎓 Education
-
-| Degree                | College/University    | Year of Passing | CGPA/Percentage |
-|-----------------------|-----------------------|-----------------|-----------------|
-| **B.Tech (AI & DS)**   | Dr. MCET, Pollachi    | 2022 - Present  | 9.15            |
-| **HSC**                | Gnanasambandar School | 2021 - 2022     | 89%             |
-| **SSLC**               | Gnanasambandar School | 2019 - 2020     | 97%             |
 
 ## 🧠 Areas of Interest
 
