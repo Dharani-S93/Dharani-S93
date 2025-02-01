@@ -24,7 +24,7 @@ _Replace the above link with your own picture or use this placeholder._
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dharani-S93&layout=compact&theme=radical&hide_border=true)  
 
 ### LeetCode Stats  
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-blue)](https://leetcode.com/Dharani-S93/)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-blue)](https://leetcode.com/dharani__s/)  
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Dharani-S93?theme=dark&font=Roboto)  
 
 ---  
