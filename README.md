@@ -4,9 +4,6 @@
 
 Passionate about AI, Data Science, and Software Development. I enjoy working on projects that solve real-world problems and challenge me to grow. Let's connect and build something amazing together!  
 
-![Cool Picture](https://avatars.githubusercontent.com/u/your-profile-id)  
-_Replace the above link with your own picture or use this placeholder._  
-
 ---  
 ## 🌟 About Me  
 
