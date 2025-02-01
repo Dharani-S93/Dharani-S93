@@ -1,83 +1,51 @@
-# Hi there, I'm **Dharani S** 👋
+# Hi there 👋 I'm Dharani! 😎  
 
-**B.Tech in Artificial Intelligence & Data Science** | Passionate about **Data Science**, **Machine Learning**, **AI**, and **Smart City Technologies**  
-**Email**: [dharanidharu755@gmail.com](mailto:dharanidharu755@gmail.com) | **Phone**: [+91 9361955961](tel:+919361955961)  
-[LinkedIn](https://www.linkedin.com/in/dharani-s93/) | [GitHub](https://github.com/Dharani-S93)
+**Software Developer | Data Science & AI Enthusiast | Problem Solver** 🚀  
 
-## 🎯 Objective
+Passionate about AI, Data Science, and Software Development. I enjoy working on projects that solve real-world problems and challenge me to grow. Let's connect and build something amazing together!  
 
-Motivated and detail-oriented B. Tech student specializing in **Artificial Intelligence & Data Science**. With a strong foundation in **programming**, **data analytics**, and **functional programming**, I am eager to contribute to **Juspay's mission-critical projects**, focusing on backend development, **API integration**, and **intelligent payment solutions**. My goal is to innovate in the **fintech domain** and enhance payment experiences at scale.
+![Cool Picture](https://avatars.githubusercontent.com/u/your-profile-id)  
+_Replace the above link with your own picture or use this placeholder._  
 
+---  
+## 🌟 About Me  
 
-## 🧠 Areas of Interest
+- 👨‍💻 *B. Tech student in Artificial Intelligence and Data Science at Dr. MCET, Pollachi (CGPA: 9.15)*  
+- 💪 *Software Developer* skilled in *Java, Python, and Data Analytics*  
+- 🤖 *AI Enthusiast* exploring *Machine Learning, Data Science, and Smart City Technologies*  
+- 🎉 *Problem Solver* with experience in *Data Structures, Algorithms, and Competitive Coding*  
+- 📚 Always learning and improving my skills to stay ahead in the tech world.  
 
-- **Data Science & Analytics** (Data Visualization, Machine Learning, NLP, DBMS)
-- **Software Engineering** (Python, Java, SDLC, SQL)
+---  
+## 🔥 My Stats  
 
-## 💻 Skills
+### GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dharani-S93&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dharani-S93&layout=compact&theme=radical&hide_border=true)  
 
-### Technical Skills
+### LeetCode Stats  
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-blue)](https://leetcode.com/Dharani-S93/)  
+![LeetCode Stats](https://leetcard.jacoblin.cool/Dharani-S93?theme=dark&font=Roboto)  
 
-- **Programming Languages**: Python, Java, C
-- **Backend Development**: API Integration, Business Logic, SDLC
-- **Data Science**: Machine Learning, Natural Language Processing, Data Visualization
-- **Tools & Technologies**: SQL, MySQL, Matplotlib, Power BI, VS Code, Git, R
-- **Platforms**: AWS, Linux, Jupyter Notebooks
+---  
+## 🛠 Languages and Tools  
 
-### Soft Skills
+### Programming Languages  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
 
-- Problem-Solving
-- Analytical Thinking
-- Project Management
-- Communication Skills
-- Team Collaboration
-- Time Management
+### Tools & Technologies  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power%20bi&logoColor=black)  
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%2300C853.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  
 
-## 🚀 Projects
+---  
+## 💼 Connect with Me  
 
-### 1. **AI-Driven Detection and Prioritization of Trapped Victims in Multi-Disaster Scenarios**  
-*August - September 2024*  
-Developed an AI-powered drone system to quickly locate and prioritize live victims in disasters like landslides, earthquakes, and forest fires.  
-**Technologies Used**: Ground Penetrating Radar, UWB Radar, Thermal Sensors, Doppler Radar, Python, Cloud Data Storage, Power BI.  
-**Achievement**: Reduced search time and improved rescue efficiency by integrating real-time data processing and machine learning for prioritizing resources.
+- **GitHub:** [Dharani-S93](https://github.com/Dharani-S93)  
+- **LinkedIn:** [Dharani](https://linkedin.com/in/Dharani-S93)  
+- **Email:** dharanidharu755@gmail.com  
 
-### 2. **Multilingual Code Switching ASR**  
-*May - June 2024*  
-Created an Automatic Speech Recognition system for multilingual code-switching between Tamil and English. Handled language diversity with a focus on Tamil and English.  
-**Technologies Used**: Seq2Seq Model, RNN, LSTM.  
+Let's innovate and build something great! 🚀
 
-### 3. **Employee Management System**  
-*March - April 2024*  
-Developed an Employee Management System in Python using MySQL to efficiently manage employee data.  
-**Technologies Used**: Python, MySQL.
-
-## 🏆 Certifications
-
-- **C Programming** - GUVI
-- **Python Programming** - Coursera
-- **Data Analytics** - Coursera
-- **Java Programming** - GUVI
-- **Data Science & Machine Learning** - Infosys Springboard
-- **Power BI for Data Visualization** - PrepInsta
-- **Data Science with Python** – NPTEL
-
-## 📈 Achievements
-
-- **Top 3-rd Student** in Department with a CGPA of 9.15.
-- **LeetCode Problem Solving**: Solved nearly 50 problems, strengthening coding proficiency.
-- **Event Participation**: Active in various inter and intra-college events, demonstrating strong engagement and commitment.
-
-## 🏅 Extracurricular Activities
-
-- **Paper Presentations**: Presented technical papers at various inter-college events, showcasing my communication and technical skills.
-- **Leadership**: Led mini-project teams, motivating members to achieve project goals.
-- **Sports**: Kabaddi player.
-- **Hackathons & Competitions**: Participated in coding and data science hackathons on platforms like **GeeksforGeeks** and **Unstop**.
-
-## 🌐 Let's Connect
-
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/dharani-s93/) or check out my projects on [GitHub](https://github.com/Dharani-S93).
-
----
-
-Thank you for visiting my GitHub profile! 🚀
