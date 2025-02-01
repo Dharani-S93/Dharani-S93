@@ -4,6 +4,9 @@
 
 Passionate about AI, Data Science, and Software Development. I enjoy working on projects that solve real-world problems and challenge me to grow. Let's connect and build something amazing together!  
 
+![Cool Picture](https://avatars.githubusercontent.com/u/your-profile-id)  
+_Replace the above link with your own picture or use this placeholder._  
+
 ---  
 ## 🌟 About Me  
 
@@ -22,7 +25,7 @@ Passionate about AI, Data Science, and Software Development. I enjoy working on 
 
 ### LeetCode Stats  
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-blue)](https://leetcode.com/u/dharani__s/)  
-![LeetCode Stats](https://leetcard.jacoblin.cool/dharani__s?theme=dark&font=Roboto)  
+![LeetCode Stats](https://leetcard.jacoblin.cool/dharani__s?theme=dark&font=Roboto&solved=126)  
 
 ---  
 ## 🛠 Languages and Tools  
@@ -41,7 +44,8 @@ Passionate about AI, Data Science, and Software Development. I enjoy working on 
 ## 💼 Connect with Me  
 
 - **GitHub:** [Dharani-S93](https://github.com/Dharani-S93)  
-- **LinkedIn:** [Dharani](https://linkedin.com/in/Dharani-S93)  
+- **LinkedIn:** [Dharani](https://www.linkedin.com/in/dharani-s93/)  
 - **Email:** dharanidharu755@gmail.com  
 
 Let's innovate and build something great! 🚀
+
