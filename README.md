@@ -24,8 +24,8 @@ _Replace the above link with your own picture or use this placeholder._
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dharani-S93&layout=compact&theme=radical&hide_border=true)  
 
 ### LeetCode Stats  
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-blue)](https://leetcode.com/dharani_s_/)  
-![LeetCode Stats](https://leetcard.jacoblin.cool/dharani_s_?theme=dark&font=Roboto)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-blue)](https://leetcode.com/u/dharani__s/)  
+![LeetCode Stats](https://leetcard.jacoblin.cool/dharani__s?theme=dark&font=Roboto)  
 
 ---  
 ## 🛠 Languages and Tools  
@@ -48,4 +48,3 @@ _Replace the above link with your own picture or use this placeholder._
 - **Email:** dharanidharu755@gmail.com  
 
 Let's innovate and build something great! 🚀
-
