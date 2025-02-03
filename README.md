@@ -33,7 +33,7 @@ Passionate about AI, Data Science, and Software Development. I enjoy working on 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
 
 ### Backend Development  
-🔗 API Integration  
+🔗 Database
 ⚙️ Business Logic  
 📈 SDLC  
 
