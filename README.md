@@ -34,6 +34,7 @@ Passionate about AI, Data Science, and Software Development. I enjoy working on 
 
 ### Backend Development  
 🔗 Database
+
 ⚙️ Business Logic  
 📈 SDLC  
 
