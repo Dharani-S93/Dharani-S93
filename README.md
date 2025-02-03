@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Dharani! 😎  
  
 **Software Developer | Data Science & AI Enthusiast | Problem Solver** 🚀  
-
+ 
 Passionate about AI, Data Science, and Software Development. I enjoy working on projects that solve real-world problems and challenge me to grow. Let's connect and build something amazing together!  
 
 ---  
